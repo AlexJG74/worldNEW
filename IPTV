@@ -13,22 +13,8 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:0,24-7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-#EXTINF:0,30A TV
-http://30a-tv.com/my999.m3u8?fluxustv.m3u8
-#EXTINF:0,30A Music
-http://30a-tv.com/music.m3u8?fluxustv.m3u8
-#EXTINF:0,ABC News (No-Feed)
-https://abclive1-lh.akamaihd.net/i/abc_preview02@425077/master.m3u8
-#EXTINF:0,Action Sports 4U
-https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:0,AKC TV 
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:0,America's Funniest Videos
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:0,American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:0,Apple Sauce Network
 https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0,Atlanta Channel
