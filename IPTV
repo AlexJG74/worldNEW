@@ -4,8 +4,6 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 #EXTINF:0,Arirang (Opt-1) (KR)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:0,Cloudtrend Service
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:0,Cloudtrend Service
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:0,CNA (Opt-2) (SG)
 http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
@@ -13,8 +11,6 @@ http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0,TRT World (TR)
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:0,~ USA TV ~
-http://www.lengua.com/anthems/USA.mp3
 #EXTINF:0,24-7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 #EXTINF:0,30A TV
