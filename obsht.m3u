@@ -1,20 +1,4 @@
 #EXTM3U $BorpasFileFormat="1"
-#EXTINF:-1,Frecuencia Musical (Opt-1) - 15.12.2019 09:12
-C:/Users/AlexJG/Downloads/frecuencia musical (opt-1) (15-12-2019 09-12-44 905)
-#EXTINF:-1,Frecuencia Musical (Opt-1) - 15.12.2019 09:38
-C:/Users/AlexJG/Downloads/frecuencia musical (opt-1) (15-12-2019 09-38-19 656)
-#EXTINF:-1,Frecuencia Musical (Opt-1) - 15.12.2019 09:39
-C:/Users/AlexJG/Downloads/frecuencia musical (opt-1) (15-12-2019 09-39-05 632)
-#EXTINF:-1 tvg-logo="../Channel/Logo/Trace Urban.png",Trace Tropical - 16.12.2019 14:37
-C:/Users/AlexJG/Downloads/trace tropical (16-12-2019 14-37-09 944)
-#EXTINF:-1 tvg-logo="../Channel/Logo/Trace Urban.png",Trace Toca - 17.12.2019 06:57
-C:/Users/AlexJG/Downloads/trace toca (17-12-2019 06-57-03 103)
-#EXTINF:-1 tvg-logo="../Channel/Logo/Trace Urban.png",Trace Naija - 17.12.2019 07:24
-C:/Users/AlexJG/Downloads/trace naija (17-12-2019 07-24-35 164)
-#EXTINF:-1 tvg-logo="../Channel/Logo/Trace Urban.png",Trace Naija - 17.12.2019 07:25
-C:/Users/AlexJG/Downloads/trace naija (17-12-2019 07-25-04 170)
-#EXTINF:-1 tvg-logo="../Channel/Logo/Trace Urban.png",Trace Naija - 17.12.2019 07:39
-C:/Users/AlexJG/Downloads/trace naija (17-12-2019 07-39-00 521)
 #EXTINF:-1,Alfa TV
 http://alfa.bg:1935/live/live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,BTK
